@@ -3,6 +3,7 @@ README.md
 pyproject.toml
 src/example_package_Adam_ElGhaib/OneList.py
 src/example_package_Adam_ElGhaib/TwoList.py
+src/example_package_Adam_ElGhaib/Z-test.py
 src/example_package_Adam_ElGhaib/__init__.py
 src/example_package_Adam_ElGhaib/example.py
 src/example_package_Adam_ElGhaib.egg-info/PKG-INFO
