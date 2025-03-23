@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/example_package_Adam_ElGhaib/OneList.py
+src/example_package_Adam_ElGhaib/TwoList.py
+src/example_package_Adam_ElGhaib/__init__.py
+src/example_package_Adam_ElGhaib/example.py
+src/example_package_Adam_ElGhaib.egg-info/PKG-INFO
+src/example_package_Adam_ElGhaib.egg-info/SOURCES.txt
+src/example_package_Adam_ElGhaib.egg-info/dependency_links.txt
+src/example_package_Adam_ElGhaib.egg-info/top_level.txt
